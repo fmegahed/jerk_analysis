@@ -1,0 +1,4 @@
+data/
+mlruns/
+.ipynb_*
+logs.log
